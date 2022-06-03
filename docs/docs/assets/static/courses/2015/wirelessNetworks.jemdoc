@@ -1,0 +1,33 @@
+# jemdoc: menu{MENU}{wirelessNetworks.html}
+= E2 241 : Wireless Networks, Spring 2015
+
+== Lectures & Homework
+
+== Course Syllabus
+[PDF]
+
+== Course Description
+#Basic mathematical modeling is at the heart of engineering. In both electrical and computer engineering, many systems must be modeled using discrete formulations. This course will give students the foundations in discrete mathematics needed to model modern computer systems. Students will be introduced to the mathematical tools of logic and set theory, combinatorics, number theory, and graph theory.
+
+== Instructor
+Office: ECE 2.17 \n
+Hours: Tu/Th 4:00-5:00pm (after the lectures).
+
+== Time and Location
+Classroom: ECE 1.08, Main ECE Building \n
+Hours: Tu/Th 2:00-3:30pm\n
+
+#==Teaching Assistants
+#Parul Pandey: parul@cac.rutgers.edu
+#Office hours: Wednesdays, 1:30-5:30pm, CoRE 506
+#Orsan Aytekin: orsan.aytekin@rutgers.edu
+#Office hours: Thursdays, 8:40-12:40pm, CoRE 506
+
+== Textbook
+[http://www.elsevier.com/books/wireless-networking/kumar/978-0-12-374254-4 Wireless Networking], Anurag Kumar, D. Manjunath, Joy Kuri, Morgan Kaufmann, 2008. \n
+You can get a copy of the textbook from the [http://www.tatabookhouse.com/ campus book store].\n
+
+#[img{100}{}{Wireless Networking} images/wirelessNetworkingBook.jpg]
+~~~
+{}{img_left}{images/wirelessNetworkingBook.jpg}{Wireless Networking}{100}{}{http://www.elsevier.com/books/wireless-networking/kumar/978-0-12-374254-4}
+~~~

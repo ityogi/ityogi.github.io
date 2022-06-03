@@ -1,0 +1,77 @@
+# jemdoc: menu{MENU}{spqt.html}{../}
+= E2 204 : Stochastic Processes \& Queueing Theory, Spring 2015
+
+== Lectures & Homework
+#- [spqt/lecture1.pdf Poisson Process]
+#- [spqt/lecture2.pdf Characterizations/Properties of Poisson Process]
+#- [spqt/lecture3.pdf Compound Poisson Process]
+#- [spqt/lecture4.pdf Introduction to Renewal Theory]
+#- [spqt/lecture5.pdf Limit Theorems in Renewal Theory]
+#- [spqt/lecture6.pdf Key Renewal Theorem and Applications]
+#- [spqt/lecture7.pdf Limiting Mean Excess Time, Branching Processes, Delayed Renewal Process]
+#- [spqt/lecture8.pdf Equilibrium Renewal Processes and Renewal Reward Processes]
+#- [spqt/lecture9.pdf Discrete Time Markov Chains]
+#- [spqt/lecture10.pdf Examples of Discrete Time Markov Chains]
+#- [spqt/lecture11.pdf Time Reversibility of Discrete Time Markov Chains]
+#- [spqt/lecture12.pdf Continuous Time Markov Chains]
+#- [spqt/lecture13.pdf Limiting Probabilities and Reversibility]
+#- [spqt/lecture14.pdf Applications of Reversibility to Queueing Networks]
+#- [spqt/lecture15.pdf Examples of Queueing Networks]
+#- [spqt/lecture16.pdf Martingales]
+#- [spqt/lecture17.pdf Martingales Examples]
+#- [spqt/lecture18.pdf Martingales Convergence Theorems]
+#- [spqt/lecture19.pdf Random Walks]
+#- [spqt/lecture20.pdf Queues as Random Walks]
+#- [spqt/lecture21.pdf Martingales as Random Walks]
+- Poisson Process
+- Characterizations/Properties of Poisson Process
+- Compound Poisson Process
+- Introduction to Renewal Theory
+- Limit Theorems in Renewal Theory
+- Key Renewal Theorem and Applications
+- Limiting Mean Excess Time, Branching Processes, Delayed Renewal Process
+- Equilibrium Renewal Processes and Renewal Reward Processes
+- Discrete Time Markov Chains
+- Examples of Discrete Time Markov Chains
+- Time Reversibility of Discrete Time Markov Chains
+- Continuous Time Markov Chains
+- Limiting Probabilities and Reversibility
+- Applications of Reversibility to Queueing Networks
+- Examples of Queueing Networks
+- Martingales
+- Martingales Examples
+- Martingales Convergence Theorems
+- Random Walks
+- Queues as Random Walks
+- Martingales as Random Walks
+== Course Syllabus
+Poisson process, Renewal theory, Markov chains, Reversibility, Queueing networks, Martingales, Random walk. 
+#[PDF]
+
+== Course Description
+Basic mathematical modeling is at the heart of engineering. 
+In both electrical and computer engineering, many systems must be modeled using stochastic processes. 
+This course will introduce students to basic stochastic processes tools that can be utilized for performance analysis 
+of stochastic dynamic systems and networks. 
+
+== Instructor
+Office: ECE 2.17 \n
+Hours: M/W 4:00-5:00pm.
+
+== Time and Location
+Classroom: ECE 1.07, Main ECE Building \n
+Hours: M/W 10:00 am - 12:00 noon.
+
+== Teaching Assistants
+Konchady Gautam Shenoy: konchady@ece.iisc.ernet.in \n
+Office Hours: Wednesdays, 3:00-5:00pm, EC 2.15 \n
+Deekshith P K: deeks@ece.iisc.ernet.in \n
+Office Hours: Fridays, 1:30-3:30pm, EC 2.19
+
+== Textbook
+[http://as.wiley.com/WileyCDA/WileyTitle/productCd-0471120626.html Stochastic Processes], Sheldon M. Ross, 2nd edition, 1996. \n
+You can get a copy of the textbook from the [http://www.tatabookhouse.com/ campus book store].\n
+
+~~~
+{}{img_left}{../images/stochasticProcessesBook.jpg}{Stochastic Processes}{100}{}{http://as.wiley.com/WileyCDA/WileyTitle/productCd-0471120626.html}
+~~~
