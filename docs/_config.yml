@@ -16,7 +16,7 @@ keywords: random, random-process, networks, modeling, jekyll, jekyll-theme, acad
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: ⚛️  # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
-#url: https://ityogi.github.io # the base hostname & protocol for your site
+url: https://ityogi.github.io # the base hostname & protocol for your site
 #url: http://10.32.199.46 # the base hostname & protocol for your site
 baseurl:  # the subpath of your site, e.g. /blog/
 last_updated: false # set to true if you want to display last updated in the footer
