@@ -2,7 +2,7 @@
 layout: page
 title: E2 236–Foundations of Machine Learning
 nav: false
-permalink: /ml
+permalink: /ml/
 ---
 
 ## Spring 2022

@@ -2,7 +2,7 @@
 layout: page
 title: Openings
 nav: false
-permalink: /positions
+permalink: /positions/
 ---
 
 ## Post Doctoral position

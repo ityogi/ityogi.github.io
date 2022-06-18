@@ -2,7 +2,7 @@
 layout: page
 title: Videos of talks by research group members
 nav: false
-permalink: /videos
+permalink: /videos/
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/aR33BmMsk5Q" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

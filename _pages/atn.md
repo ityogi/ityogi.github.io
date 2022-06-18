@@ -2,7 +2,7 @@
 layout: page
 title: E2 224–Advanced Topics in Networking
 nav: false
-permalink: /atn
+permalink: /atn/
 ---
 
 ## Spring 2022

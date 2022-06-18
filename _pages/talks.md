@@ -2,7 +2,7 @@
 layout: page
 title: Invited Talks
 nav: false
-permalink: /talks
+permalink: /talks/
 ---
 
 ## 2022
@@ -10,19 +10,19 @@ permalink: /talks
 - **Mar 14, 2022**: Coded parallel server systems. 
 [Dayanand Sagar College of Engineering](https://www.dsce.edu.in/).
 [slides](talks/2022/dsce.pdf).
-{::comment}[video](https://www.youtube.com/watch?v#gVHVn9_xGtE).{:/comment}
+{::comment}[video](https://www.youtube.com/watch?v=gVHVn9_xGtE).{:/comment}
 
 ## 2021 
 
 - **Nov 22, 2021**: Markov chains: theory and applications. 
 [DRDO CAIR](https://sites.google.com/view/advanced-ai-workshop).
 [slides](talks/2021/cair.pdf).
-{::comment}[video](https://www.youtube.com/watch?v#gVHVn9_xGtE).{:/comment}
+{::comment}[video](https://www.youtube.com/watch?v=gVHVn9_xGtE).{:/comment}
 
 - **Nov 12, 2021**: Coded parallel server systems. 
 [Vellore Institute of Technology](https://vit.ac.in).
 [slides](talks/2021/vit.pdf).
-[video](https://www.youtube.com/watch?v#gVHVn9_xGtE).
+[video](https://www.youtube.com/watch?v=gVHVn9_xGtE).
 
 - **Oct 17, 2021**: Modeling and optimization of erasure coded systems. 
 [IEEE ITW](https://www.itw2021.org/tutorials). 
@@ -35,7 +35,7 @@ permalink: /talks
 - **Aug 06, 2021**: Parallel server systems. 
 [CNI summer school](https://cni.iisc.ac.in/summerschool21/). 
 [notes](talks/2021/cni.pdf ).
-[video](https://www.youtube.com/watch?v#VvmzL8kAUm4).
+[video](https://www.youtube.com/watch?v=VvmzL8kAUm4).
 
 ## 2020
 
@@ -46,7 +46,7 @@ permalink: /talks
 - **Jan 07, 2020**: Tracking auto-regressive process with limited communication. 
 [BITS](http://www.tcs.tifr.res.in/bits/), Mumbai. 
 [slides](talks/2020/bits.pdf). 
-[video](https://www.youtube.com/watch?v#UMtE2W2Ywz4).
+[video](https://www.youtube.com/watch?v=UMtE2W2Ywz4).
 
 ## 2018
 
@@ -69,7 +69,7 @@ Faculty colloquium, IISc Bangalore.
 - **Jan 13, 2018**: Real-time status updates for Markov sources over unreliable channels. 
 [BITS](http://www.tcs.tifr.res.in/bits/), Mumbai. 
 [slides](talks/2018/bits.pdf).
-[video](https://www.youtube.com/watch?v#y2FBgxYr8gA&t#531s).
+[video](https://www.youtube.com/watch?v=y2FBgxYr8gA&t=531s).
 
 ## 2017
 

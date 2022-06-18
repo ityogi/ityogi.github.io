@@ -2,7 +2,7 @@
 layout: page
 title: Past Courses
 nav: false
-permalink: /teach
+permalink: /teach/
 ---
 
 - E0.201 [Proofs and Measures](/assets/courses/2015/proofs) : Fall 2015

@@ -2,7 +2,7 @@
 layout: page
 title: Research Group
 nav: false
-permalink: /members
+permalink: /members/
 ---
 
 ## Current Students

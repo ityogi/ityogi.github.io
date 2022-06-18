@@ -2,7 +2,7 @@
 layout: page
 title: Professional Service
 nav: false
-permalink: /service
+permalink: /service/
 ---
 
 ### 2022

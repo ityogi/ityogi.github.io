@@ -2,7 +2,7 @@
 layout: page
 title: "E1 244: Estimation and Detection Theory, Spring 2017"
 nav: false
-permalink: /assets/courses/estimation
+permalink: /courses/estimation/
 ---
 
 ## Lecture Notes

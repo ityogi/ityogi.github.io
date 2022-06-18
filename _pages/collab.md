@@ -2,7 +2,7 @@
 layout: page
 title: Collaborators
 nav: false
-permalink: /collab
+permalink: /collab/
 ---
 
 - [Aditya Gopalan][Aditya], Indian Institute of Science

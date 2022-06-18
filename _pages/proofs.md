@@ -2,7 +2,7 @@
 layout: page
 title: E0 201 Proofs and Measurs, Fall 2015
 nav: false
-permalink: /assets/courses/2015/proofs
+permalink: /courses/2015/proofs/
 ---
 
 ## Lecture Notes

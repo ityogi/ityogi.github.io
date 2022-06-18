@@ -2,12 +2,12 @@
 layout: page
 title: Publications
 nav: false
-permalink: /pubs
+permalink: /pubs/
 ---
 
 # Publications
 
-- [Google Scholar Page](https://scholar.google.co.in/citations?user#cOulMkwAAAAJ&hl#en )
+- [Google Scholar Page](https://scholar.google.co.in/citations?user=cOulMkwAAAAJ&hl=en )
 - [Research Gate Page](https://www.researchgate.net/profile/Parimal_Parag )
 - [dblp Page](https://dblp.uni-trier.de/pers/hd/p/Parag:Parimal )
 - [Arxiv author page](https://arxiv.org/a/parag_p_1.html )
@@ -47,7 +47,7 @@ Latency optimal storage and scheduling of replicated fragments for memory constr
 </span>
 *IEEE Transactions on Information Theory*.
 68(6):4135--4155, Jun 2022.
-[ieeexplore](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp#&arnumber#9720952 ).
+[ieeexplore](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp#&arnumber=9720952 ).
 [paper](papers/2022/tit.pdf ).
 
 - [A. K. S. Krishnan][Ashok], 
@@ -71,7 +71,7 @@ A scalable container-based virtualized data center emulation framework.
 </span>
 *International Conference on Communication Systems and Networks (COMSNETS)*.
 pp. 452--454, Jan 2022.
-[ieeexplore](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp#&arnumber#9668443).
+[ieeexplore](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp#&arnumber=9668443).
 [paper](papers/2022/comsnets-2.pdf).
 [slides](slides/2022/comsnets-2.pdf).
 [video](videos/2022/comsnets-2.mp4).
@@ -86,7 +86,7 @@ Latency-redundancy tradeoff in distributed read-write systems.
 </span>
 *International Conference on Communication Systems and Networks (COMSNETS)*.
 pp. 172--180, Jan 2022.
-[ieeexplore](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp#&arnumber#9668414).
+[ieeexplore](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp#&arnumber=9668414).
 [paper](papers/2022/comsnets-1.pdf).
 [slides](slides/2022/comsnets-1.pdf).
 [video](videos/2022/comsnets-1.mp4).
@@ -103,8 +103,8 @@ for P2P Networks.
 </span>
 *IEEE/ACM Transactions on Networking*.
 29(6):2548--2559, Dec 2021. 
-[ieeexplore](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp#&arnumber#9474920 ).
-[appendix](https://ieeexplore.ieee.org/ielx7/90/4359146/9474920/supp1-3092008.pdf?arnumber#9474920).
+[ieeexplore](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp#&arnumber=9474920 ).
+[appendix](https://ieeexplore.ieee.org/ielx7/90/4359146/9474920/supp1-3092008.pdf?arnumber=9474920).
 [paper](papers/2021/tnet-2.pdf).
 
 - [A. Badita][Ajay], 
@@ -115,8 +115,8 @@ Single-forking of coded subtasks for straggler mitigation.
 </span>
 *IEEE/ACM Transactions on Networking*.
 29(6):2413--2424, Dec 2021. 
-[ieeexplore](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp#&arnumber#9472871 ).
-[appendix](https://ieeexplore.ieee.org/ielx7/90/4359146/9472871/supp1-3075377.pdf?arnumber#9472871). 
+[ieeexplore](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp#&arnumber=9472871 ).
+[appendix](https://ieeexplore.ieee.org/ielx7/90/4359146/9472871/supp1-3075377.pdf?arnumber=9472871). 
 [paper](papers/2021/tnet-1.pdf).
 
 - [R. Jinan][Rooji], 
@@ -128,7 +128,7 @@ Low latency replication coded storage over memory-constrained servers.
 </span>
 *IEEE International Symposium on Information Theory (ISIT)*. 
 Jul 2021.
-[ieeexplore](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp#&arnumber#9517901). 
+[ieeexplore](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp#&arnumber=9517901). 
 [paper](papers/2021/isit.pdf).
 [slides](slides/2021/isit.pdf).
 [video](videos/2021/isit.mp4).
@@ -142,7 +142,7 @@ Variable length differential encoding for real-time status updates.
 </span>
 *IEEE Communication Letters*.
 25(4):1129--1133, Apr 2021. 
-[ieeexplore](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp#&arnumber#9298869). 
+[ieeexplore](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp#&arnumber=9298869). 
 [paper](papers/2021/comml.pdf).
 
 - [R. Jinan][Rooji], 
@@ -167,7 +167,7 @@ Real-time status updates with perfect feedback over erasure channels.
 </span>
 *IEEE Transactions on Communications*. 
 68(9):5363--5374, Sep 2020.
-[ieeexplore](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp#&arnumber#9130756). 
+[ieeexplore](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp#&arnumber=9130756). 
 [paper](papers/2020/tcom-2.pdf).
 
 
@@ -179,7 +179,7 @@ Minimizing latency for secure coded computing using secret sharing via staircase
 </span>
 *IEEE Transactions on Communications*. 
 68(8):4609--4619, Aug 2020. 
-[ieeexplore](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp#&arnumber#9069916).
+[ieeexplore](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp#&arnumber=9069916).
 [paper](papers/2020/tcom-1.pdf).
 
 
@@ -192,7 +192,7 @@ Tracking an auto-regressive process with limited communication.
 *IEEE International Symposium on Information Theory (ISIT)*,
 Los Angeles, CA, USA, 
 Jun 21-26, 2020.
-[ieeexplore](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp#&arnumber#9517901).
+[ieeexplore](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp#&arnumber=9517901).
 [paper](papers/2020/isit.pdf).
 [slides](slides/2020/isit.pdf).
 [video](https://confcats-event-sessions.s3.amazonaws.com/isit20/videos/1633.mp4).
@@ -207,7 +207,7 @@ Optimal pricing in finite server systems.
 *International Symposium on Modeling and Optimization in Mobile, Ad Hoc and Wireless Networks (WiOpt)*,
 Volos, Greece, 
 Jun 15-19, 2020. 
-[ieeexplore](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp#&arnumber#9155315).
+[ieeexplore](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp#&arnumber=9155315).
 [paper](papers/2020/wiopt.pdf).
 [slides](slides/2020/wiopt.pdf).
 [video](videos/2020/wiopt.mp4).
@@ -220,7 +220,7 @@ Optimal lossless source codes for timely updates.
 </span>
 *IEEE Transactions on Information Theory*.
 66(6):3714--3731, Jun 2020. 
-[ieeexplore](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp#&arnumber#9046864).
+[ieeexplore](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp#&arnumber=9046864).
 [paper](papers/2020/tit.pdf). 
 
 - [S. K. Hanna][Serge], 
@@ -234,7 +234,7 @@ Adaptive distributed stochastic gradient descent for minimizing delay in the pre
 *International Conference on Acoustics, Speech, and Signal Processing (ICASSP)*,
 Barcelona, Spain, 
 May 04-08, 2020.
-[ieexplore](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp#&arnumber#9053961).
+[ieexplore](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp#&arnumber=9053961).
 [paper](papers/2020/icassp.pdf).
 [poster](slides/2020/icassp.pdf).
 [video](https://2020.ieeeicassp-virtual.org/presentation/poster/adaptive-distributed-stochastic-gradient-descent-minimizing-delay-presence).
@@ -249,7 +249,7 @@ Sequential addition of coded tasks for straggler mitigation.
 *IEEE International Conference on Computer Communications (INFOCOM)*, 
 Beijing, China, 
 Apr 27-30, 2020.
-[ieeexplore](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp#&arnumber#9155358). 
+[ieeexplore](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp#&arnumber=9155358). 
 [paper](papers/2020/infocom.pdf). 
 [slides](slides/2020/infocom.pdf).
 [video](videos/2020/infocom.mp4).
@@ -263,8 +263,8 @@ Optimal server selection for straggler mitigation.
 </span>
 *IEEE/ACM Transactions on Networking*.
 28(2):709--721, Apr 2020.
-[ieeexplore](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp#&arnumber#9018098).
-[appendix](https://ieeexplore.ieee.org/ielx7/90/4359146/9018098/supp1-2973224.pdf?tp#&arnumber#9018098).
+[ieeexplore](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp#&arnumber=9018098).
+[appendix](https://ieeexplore.ieee.org/ielx7/90/4359146/9018098/supp1-2973224.pdf?tp#&arnumber=9018098).
 [paper](papers/2020/tnet.pdf).
 
 - P. Sharma,
@@ -284,7 +284,7 @@ On the latency in vehicular control using video streaming over Wi-Fi.
 *National Conference on Communications (NCC)*,
 IIT Kharagpur, India, 
 Feb 21-23, 2020.
-[ieeexplore](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp#&arnumber#9056067). 
+[ieeexplore](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp#&arnumber=9056067). 
 [paper](papers/2020/ncc.pdf). 
 [slides](slides/2020/ncc.pdf).
 
@@ -301,7 +301,7 @@ CORNET: A co-simulation middleware for robot networks.
 *International Conference on Communication Systems & Networks (COMSNETS)*, 
 Bangalore, India, 
 Jan 07-11, 2020.
-[ieeexplore](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp#&arnumber#9027459). 
+[ieeexplore](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp#&arnumber=9027459). 
 [paper](papers/2020/comsnets.pdf). 
 [slides](slides/2020/comsnets.pdf ).
 
@@ -480,7 +480,7 @@ Waiting on Distributed Content.
 *IEEE Information Theory and Applications (ITA)*, 
 San Diego, CA, 
 Feb 10-15, 2013.     
-[ieeexlpore](https://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber#5947285). 
+[ieeexlpore](https://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=5947285). 
 [paper](papers/2013/ita.pdf). 
 [slides](slides/2013/ita.pdf).
 {:/comment}
@@ -507,7 +507,7 @@ Exploiting an interplay between norms to analyze scalar quantization schemes.
 *IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)*, 
 Prague, Czech Republic, 
 May 22-25, 2011. 
-[ieeexlpore](https://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber#5947285). 
+[ieeexlpore](https://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=5947285). 
 [paper](papers/2011/icassp.pdf). 
 [slides](slides/2011/icassp.pdf).
 
@@ -547,7 +547,7 @@ Content-aware caching and traffic management in content distribution networks.
 *IEEE Conference on Computer Communications (INFOCOM)*, 
 Shanghai, China, 
 Apr 10-15, 2011. 
-[ieeexlpore](https://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber#5935123 ). 
+[ieeexlpore](https://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=5935123 ). 
 [paper](papers/2011/infocom.pdf ). 
 [slides](slides/2011/infocom.pdf ).
 
@@ -565,7 +565,7 @@ On the queueing behavior of random codes over a Gilbert-Elliot erasure channel.
 1798 -- 1802, 
 Austin, TX, 
 Jun 13-18, 2010. 
-[ieeexlpore](https://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber#5513296). 
+[ieeexlpore](https://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=5513296). 
 [paper](papers/2010/isit.pdf). 
 [slides](slides/2010/isit.pdf).
 
@@ -576,7 +576,7 @@ Queueing analysis of a butterfly network for comparing network coding to classic
 </span>
 *IEEE Transactions on Information Theory*, 
 56(4):1890--1908, Apr 2010. 
-[ieeexlpore](https://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber#5437430). 
+[ieeexlpore](https://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=5437430). 
 [paper](papers/2010/tit.pdf). 
 
 - P. Parag, 
@@ -589,7 +589,7 @@ Value-aware resource allocation for service guarantees in networks.
 1--9, 
 San Diego, CA, 
 Mar 15-19, 2010. 
-[ieeexlpore](https://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber#5462104). 
+[ieeexlpore](https://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=5462104). 
 [paper](papers/2010/infocom.pdf). 
 [slides](slides/2010/infocom.pdf).
 
@@ -604,7 +604,7 @@ Code rate, queueing behavior and the correlated erasure channel.
 1--5, 
 Cairo, Egypt, 
 Jan 6-8, 2010. 
-[ieeexlpore](https://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber#5503186). 
+[ieeexlpore](https://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=5503186). 
 [paper](papers/2010/ita.pdf). 
 [slides](slides/2010/ita.pdf).
 
@@ -620,7 +620,7 @@ Queueing analysis of a butterfly network.
 672--676, 
 Toronto, Canada, 
 Jul 6-11, 2008. 
-[ieeexlpore](https://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber#4595071). 
+[ieeexlpore](https://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=4595071). 
 [paper](papers/2008/isit.pdf). 
 [slides](slides/2008/isit.pdf).
 
@@ -633,7 +633,7 @@ Quality of service analysis for user cooperation in wireless communication syste
 </span>
 *IEEE Transactions on Information Theory*, 
 53(10):3833--3842, Oct 2007. 
-[ieeexlpore](https://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber#4305401 ). 
+[ieeexlpore](https://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=4305401 ). 
 [paper](papers/2007/tit-2.pdf).
 	
 - [L. Liu][Lingjia], 
@@ -646,7 +646,7 @@ Resource allocation and quality of service evaluation for wireless communication
 </span>
 *IEEE Transactions on Information Theory*, 
 53(5):1767--1777, May 2007. 
-[ieeexlpore](https://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber#4167741). 
+[ieeexlpore](https://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=4167741). 
 [paper](papers/2007/tit-1.pdf).   
 
 ### 2006
@@ -675,7 +675,7 @@ A subcarrier allocation algorithm for OFDMA using buffer and channel state infor
 *IEEE 62nd Vehicular Technology Conference (VTC)*, 
 62 (1):622--625, 
 Sep 2005. 
-[ieeexlpore](https://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber#1557987). 
+[ieeexlpore](https://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=1557987). 
 [paper](papers/2005/vtc.pdf). 
 [slides](slides/2005/vtc.pdf).
 
@@ -692,7 +692,7 @@ Delay-sensitive communications: code-Rates, strategies, and distributed control.
 <span style="color:Maroon">
 Method and apparatus for continuous access network monitoring and packet loss estimation. 
 </span>
-[Google Patents](https://www.google.com/patents/WO2015016919A1?cl#un).
+[Google Patents](https://www.google.com/patents/WO2015016919A1?cl=un).
 
 [Aditya]: https://ece.iisc.ac.in/~aditya/
 [Ajay]: https://linkedin.com/in/ajaybadita/ 

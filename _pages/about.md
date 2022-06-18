@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Associate Professor, Indian Institute of Science Bengaluru
+subtitle: Associate Professor, Indian Institute of Science
 
 profile:
   align: right

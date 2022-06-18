@@ -2,7 +2,7 @@
 layout: page
 title: Research Group Alumni
 nav: false
-permalink: /alumni
+permalink: /alumni/
 ---
 
 ### Doctor of Philosophy

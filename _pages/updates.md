@@ -2,7 +2,7 @@
 layout: page
 title: News
 nav: false
-permalink: /updates
+permalink: /updates/
 ---
 
 ## 2021
@@ -20,7 +20,7 @@ permalink: /updates
 - **Aug 02, 2021**: Teaching [random.html E2.202 Random processes].
 - **Jul 13, 2021**: Serving on TPC committee of [https://icc2022.ieee-icc.org/ ICC 2022-Wireless Communications Symposium].
 - **Jun 21, 2021**: [https://ieeexplore.ieee.org/document/9474920 Journal article] co-authored by Vamsee, Sarat, and [https://cesg.tamu.edu/faculty/sshakkot Srinivas] accepted at IEEE TNET. 
-- **Jun 16, 2021**: Joint tutorial proposal with [https://web.ics.purdue.edu/~vaneet Vaneet] and [https://www2.seas.gwu.edu/~tlan/ Tian] accepted at [http://itw2021.org/?page_id#436 IEEE ITW 2021]. 
+- **Jun 16, 2021**: Joint tutorial proposal with [https://web.ics.purdue.edu/~vaneet Vaneet] and [https://www2.seas.gwu.edu/~tlan/ Tian] accepted at [http://itw2021.org/?page_id=436 IEEE ITW 2021]. 
 - **May 25, 2021**: [https://cps.iisc.ac.in/students/rooji/ Rooji] presented her [https://youtu.be/lOwIcHwR2NQ work] at [https://sites.google.com/view/cni-nss/home CNI networks seminar].
 - **Apr 30, 2021**: [https://ieeexplore.ieee.org/document/9517901 Conference article] co-authored by [https://cps.iisc.ac.in/students/rooji/ Rooji], [https://ece.iisc.ac.in/~ajaybadita Ajay], and [https://ee.iitm.ac.in/pradeep Pradeep] accepted at IEEE ISIT 2021. 
 - **Apr 14, 2021**: [https://ieeexplore.ieee.org/document/9472871 Journal article] co-authored by [https://ece.iisc.ac.in/~ajaybadita Ajay] and [https://web.ics.purdue.edu/~vaneet Vaneet] accepted at IEEE TNET.

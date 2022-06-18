@@ -2,7 +2,7 @@
 layout: page
 title: Links
 nav: false
-permalink: /links
+permalink: /links/
 ---
 
 {::comment}
@@ -31,7 +31,7 @@ Various researchers recommend [LyX](http://en.wikipedia.org/wiki/LyX) because it
 
 - [LaTeX (Organization)](http://www.latex-project.org/)
 - [BibTeX (Wikipedia)](http://en.wikipedia.org/wiki/BibTeX)
-- [LyX/LaTeX on Mac](http://wiki.lyx.org/LyX/LyXOnMac?from#LyX.Mac)
+- [LyX/LaTeX on Mac](http://wiki.lyx.org/LyX/LyXOnMac?from=LyX.Mac)
 - [LyX/LaTeX on Windows](http://wiki.lyx.org/Windows/Windows)
 - [LyX (Organization)](http://www.lyx.org/)
 - [LyX Quickstart Guide](http://heather.cs.ucdavis.edu/~matloff/lyx.html )
