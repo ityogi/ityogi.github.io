@@ -5,8 +5,6 @@ nav: false
 permalink: /pubs/
 ---
 
-# Publications
-
 - [Google Scholar Page](https://scholar.google.co.in/citations?user=cOulMkwAAAAJ&hl=en )
 - [Research Gate Page](https://www.researchgate.net/profile/Parimal_Parag )
 - [dblp Page](https://dblp.uni-trier.de/pers/hd/p/Parag:Parimal )
